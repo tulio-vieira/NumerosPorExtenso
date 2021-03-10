@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "XUnitTestNumerosPorExtenso": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

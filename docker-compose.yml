@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  numerosporextenso:
+    image: ${DOCKER_REGISTRY-}numerosporextenso
+    build:
+      context: .
+      dockerfile: NumerosPorExtenso/Dockerfile
